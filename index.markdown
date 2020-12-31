@@ -150,7 +150,7 @@ redirect_from: '/moveit/'
                         <img class="companies-using-moveit-logos" src="/assets/images/Companies/franka-logo.png" alt="Franka Emika logo">
                         <br class="onlyLg">
                         <img class="companies-using-moveit-logos" src="/assets/images/Companies/pal-logo.png" alt="Pal Robotics logo">
-                        <img class="companies-using-moveit-logos" src="/assets/images/Companies/rtr_Logo.png" alt="RTR logo">
+                        <img class="companies-using-moveit-logos" src="/assets/images/Companies/facebook-wordmark.png" alt="Facebook Logo">
                         <img class="companies-using-moveit-logos" src="/assets/images/Companies/kinova-logo.png" alt="Kinova logo">
                     </div>
                 </div>
